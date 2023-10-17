@@ -91,9 +91,11 @@ Profit prediction:
 ![output](./1m.png)
 
 Function output:
+
 ![output](./2m.png)
 
 Gradient descent:
+
 ![output](./3m.png)
 
 Cost function using Gradient Descent:
